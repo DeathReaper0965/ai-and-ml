@@ -42,6 +42,6 @@ We are working on Two Things in parallel one is based on CV and the other is bas
 
 ### End Goal
 
-* Making a Robust Face Detection(which includes Face Mask detection and social distancing). Once the Distance parameters are satisfied, the person and show their face and Model can automatically identify the capabilities of that person.
+* Making a Robust Face Detection(which includes Face Mask detection and social distancing). Once the Distance parameters are satisfied, the person can show their face and Model can automatically identify the capabilities/features of that person if the data is present in our database.
 * If person is found to be Audibly challenged, sentences can be generated using Hand Gesture Detection and the questions/queries are answered. 
 * If a person doesn't know the local language, on-the-fly text conversion can help them to convert it to the language of their choice.
